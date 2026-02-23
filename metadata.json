@@ -1,0 +1,5 @@
+{
+  "name": "SecureVault",
+  "description": "A premium, secure cloud-based password manager with AES-256 encryption and zero-knowledge architecture.",
+  "requestFramePermissions": []
+}
